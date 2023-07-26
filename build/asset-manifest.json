@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.478432b2.css",
+    "main.js": "/static/js/main.7d720637.js",
+    "static/js/787.991b9baa.chunk.js": "/static/js/787.991b9baa.chunk.js",
+    "static/media/gaming.mp4": "/static/media/gaming.f917b8c0ded3b64e07d6.mp4",
+    "static/media/interior.mp4": "/static/media/interior.5b18c72f381845ed89e0.mp4",
+    "static/media/Hero page video.mp4": "/static/media/Hero page video.6579569ea393ce6a5785.mp4",
+    "static/media/hd video.mp4": "/static/media/hd video.3a2c1056600ae1158bdd.mp4",
+    "static/media/video34.mp4": "/static/media/video34.942fff7777801b9b70ce.mp4",
+    "static/media/space.mp4": "/static/media/space.fea8f3500fa73c5f4a0b.mp4",
+    "static/media/champ.mp4": "/static/media/champ.ea792219d2cb72aa345d.mp4",
+    "static/media/game.mp4": "/static/media/game.4e1d04904aec0829452a.mp4",
+    "static/media/gun.mp4": "/static/media/gun.f454aea8e5a9c0df60aa.mp4",
+    "static/media/gameing3.mp4": "/static/media/gameing3.bc82367d76390f831369.mp4",
+    "static/media/Test.jpg": "/static/media/Test.a16815822d04a2b804f6.jpg",
+    "static/media/Rutuja.pdf": "/static/media/Rutuja.955f941e6cc3d9ce7b7b.pdf",
+    "static/media/loginimage.png": "/static/media/loginimage.5b72d87675d442d21fe5.png",
+    "static/media/technology.png": "/static/media/technology.37fd45d234ace40660cf.png",
+    "static/media/about2.png": "/static/media/about2.b117a90a25ac31991025.png",
+    "static/media/aboutmotion.png": "/static/media/aboutmotion.c82cb0d1dbea667bd504.png",
+    "static/media/motion.png": "/static/media/motion.5421b432ff01316e9ed2.png",
+    "static/media/logo.png": "/static/media/logo.3c616c119d0e66e0f6ea.png",
+    "static/media/hand.jpg": "/static/media/hand.c1013f4bd1f251750044.jpg",
+    "static/media/vart.jpg": "/static/media/vart.135624609ae769b73d6a.jpg",
+    "static/media/realit.jpg": "/static/media/realit.11212d2cdf5c40649743.jpg",
+    "static/media/title ED.png": "/static/media/title ED.7ec1e4767890118979b9.png",
+    "static/media/career flow.png": "/static/media/career flow.9eec379fa9624735b530.png",
+    "index.html": "/index.html",
+    "main.478432b2.css.map": "/static/css/main.478432b2.css.map",
+    "main.7d720637.js.map": "/static/js/main.7d720637.js.map",
+    "787.991b9baa.chunk.js.map": "/static/js/787.991b9baa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.478432b2.css",
+    "static/js/main.7d720637.js"
+  ]
+}
